@@ -1,2 +1,3 @@
-# neutronkit.github.io
-Neutronkit Web Site
+[![NeutronKit Logo](https://github.com/neutronkit/neutron/img/neutronkit-logo.svg)](http://neutronkit.com)
+
+# Neutronkit Web Site
