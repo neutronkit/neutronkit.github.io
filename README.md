@@ -1,3 +1,3 @@
-[![NeutronKit Logo](https://github.com/neutronkit/neutron/img/neutronkit-logo.svg)](http://neutronkit.com)
+[![NeutronKit Logo](http://neutronkit.com/img/neutronkit-logo.svg)](http://neutronkit.com)
 
 # Neutronkit Web Site
